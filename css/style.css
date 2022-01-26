@@ -54,6 +54,15 @@ body {
   font-size: 16px;
 }
 
+.span__text {
+  font-weight: 700;
+}
+
+.span__number {
+  font-weight: 700;
+  font-size: 18px;
+}
+
 li {
   text-align: left !important;
 }
@@ -454,8 +463,8 @@ li {
 }
 
 .result__bottom-text {
-  -ms-flex-preferred-size: 50%;
-      flex-basis: 50%;
+  -ms-flex-preferred-size: 45%;
+      flex-basis: 45%;
 }
 
 .result__bottom-text:nth-child(1) {

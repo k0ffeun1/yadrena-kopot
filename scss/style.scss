@@ -46,6 +46,13 @@ body {
     font-weight: 300;
     font-size: 16px;
 }
+.span__text {
+    font-weight: 700;
+}
+.span__number {
+    font-weight: 700;
+    font-size: 18px;
+}
 li {
     text-align: left !important;
 }
@@ -390,7 +397,7 @@ li {
     
 }
 .result__bottom-text {
-    flex-basis: 50%;
+    flex-basis: 45%;
 }
 .result__bottom-text:nth-child(1) {
     margin-right: 20px;
